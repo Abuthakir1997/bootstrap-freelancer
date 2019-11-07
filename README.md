@@ -1,3 +1,3 @@
 # bootstrap-freelancer
 
-### this is my second project using bootstrap,css,html
+### this is my first project using bootstrap,css,html
