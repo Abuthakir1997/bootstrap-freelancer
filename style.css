@@ -10,6 +10,9 @@ body{
     margin: 0px;
     padding-top: 26px;
 }
+#header li{
+    list-style: none;
+}
 #header h1 a{
     line-height: 90px;
     font-size: 28px;
