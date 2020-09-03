@@ -88,7 +88,9 @@ body{
 }
 #about{
     background-color: #1ABC9C;
-    min-height: 600px;
+}
+#about .container{
+    padding: 40px;
 }
 #about .custom
 {
@@ -112,7 +114,7 @@ body{
 }
 #about button{
     background-color:#1ABC9C;
-    width:20%;
+    width:auto;
 }
 #about button:hover{    
     background-color:white;
@@ -128,14 +130,14 @@ body{
 }
 #contact-me{
     background-color: white;
-    min-height: 600px;
+    padding: 20px;
 }
 #contact-me .container{
     padding-top:50px; 
 }
 #footer-top{
     background-color: #2C3E50;
-    min-height: 300px;
+    padding: 50px;
 }
 #footer-top h4{
     color:white;    
@@ -158,8 +160,7 @@ body{
     text-decoration: none;
 }
 #footer-bottom{
-    min-height:70px;
     background-color: #1A252F;
     color:white;
-    padding-top:20px;
+    padding:20px;
 }

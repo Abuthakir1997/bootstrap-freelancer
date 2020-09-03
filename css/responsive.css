@@ -6,4 +6,10 @@
     #header .container{
         max-width: 100%;
     }
+    #banner .container{
+        padding: 0;
+    }
+    #banner .display-4{
+        font-size: 24px;
+    }
 }
