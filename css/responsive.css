@@ -6,6 +6,9 @@
     #header .container{
         max-width: 100%;
     }
+    #header nav .navbar-nav{
+            background-image: linear-gradient(red, yellow);
+    }
     #banner .container{
         padding: 0;
     }

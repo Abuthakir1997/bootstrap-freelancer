@@ -23,6 +23,9 @@ body{
 #header h1 a:hover{
     text-decoration: none;
 }
+#header nav{
+    background-image: linear-gradient(#ff000014, #ffff008f);
+}
 .home-navigation{
 }
 .home-navigation li{
